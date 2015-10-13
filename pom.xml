@@ -25,8 +25,8 @@
   
    <distributionManagement>
   <repository>
-    <id>HelloWrold</id>
-    <name>HelloWorld</name>
+    <id>github</id>
+    <name>HelloWrold</name>
         <url>https://github.com/adamcichy3/HelloWrold.git</url>
   </repository>
 </distributionManagement>
